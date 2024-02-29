@@ -1,0 +1,1 @@
+# prestashop-timestampable-entity
